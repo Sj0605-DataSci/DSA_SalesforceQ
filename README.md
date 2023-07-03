@@ -4,3 +4,6 @@ Answers to DSA questions asked by Salesforce, DSA questions are provided by Arsh
 # Arrays:
 1. Move Zeroes - Easy 
 2. Sort Colors - Medium
+
+# Strings:
+3. Valid Parentheses - Easy
