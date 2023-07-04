@@ -13,4 +13,8 @@ Answers to DSA questions asked by Salesforce, DSA questions are provided by Arsh
 
 # Matrix :
 7. Spiral Matrix - Medium
+8. Rotate Image - Medium
+
+# Mathematical : 
+9. Valid Square - Medium
 
