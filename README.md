@@ -18,3 +18,6 @@ Answers to DSA questions asked by Salesforce, DSA questions are provided by Arsh
 # Mathematical : 
 9. Valid Square - Medium
 
+# Sorting and Searching : 
+10. Search in rotated-sorted-array - Medium
+
