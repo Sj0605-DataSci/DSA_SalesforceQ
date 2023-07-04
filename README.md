@@ -11,3 +11,6 @@ Answers to DSA questions asked by Salesforce, DSA questions are provided by Arsh
 5. Generate Parentheses - Medium
 6. Minimum Window Substring - Hard
 
+# Matrix :
+7. Spiral Matrix - Medium
+
